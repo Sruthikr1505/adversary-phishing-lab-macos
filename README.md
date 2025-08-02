@@ -33,7 +33,14 @@ A comprehensive project simulating phishing attacks using GoPhish and Mailtrap o
 - macOS operating system  
 - GoPhish phishing framework  
 - Mailtrap email sandbox account  
-- Basic knowledge of phishing techniques & cybersecurity concepts 
+- Basic knowledge of phishing techniques & cybersecurity concepts
+
+## Outcomes
+
+- Hands-on experience designing and launching simulated phishing attacks.  
+- Understanding attacker and defender perspectives in adversary simulation.  
+- Improved skills in crafting emails, metrics analysis, and security awareness.  
+- Experience with ethical, legal, and responsible simulation processes.  
 
 
 ## Screenshots 
@@ -49,14 +56,6 @@ A comprehensive project simulating phishing attacks using GoPhish and Mailtrap o
 <img width="1440" height="820" alt="p4 23" src="https://github.com/user-attachments/assets/ec33ff93-fdc6-46d6-88d6-6ed344d091a8" />
 
 
-
-
-## Outcomes
-
-- Hands-on experience designing and launching simulated phishing attacks.  
-- Understanding attacker and defender perspectives in adversary simulation.  
-- Improved skills in crafting emails, metrics analysis, and security awareness.  
-- Experience with ethical, legal, and responsible simulation processes.  
 
 ## License
 
