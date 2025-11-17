@@ -68,5 +68,4 @@ This project is for educational and ethical simulation purposes only. Do not use
 
 ---
 
-*Feel free to customize the placeholders with your personal details before uploading to GitHub.*
 
